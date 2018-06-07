@@ -1,0 +1,1 @@
+Student.create(name: 'Reni')
